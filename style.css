@@ -1,0 +1,27 @@
+.chess-table{
+    height:640px;
+    width:640px;
+    border:2px solid;
+    padding:0px;
+    margin:auto;
+    margin-top:10px;
+    text-align:center;
+}
+.row{
+    margin:0px;
+}
+.column{
+    margin:0px;
+    height:80px;
+    width:80px;
+    border:1px solid;
+}
+.brown{
+    background-color:rgb(83, 22, 22);
+}
+.green{
+    background-color:rgb(15, 133, 21);
+}
+.piece{
+    width:64px;
+}
